@@ -1,2 +1,0 @@
-# ml-practice
-🥐 ML Practice
